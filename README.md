@@ -1,2 +1,4 @@
 # hello-world
-Just a repo
+
+Hello poeple!
+It's J here. I just started this course so I created an account with Githut. 
